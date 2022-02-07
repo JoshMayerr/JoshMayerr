@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JoshMayerr
-- 👀 I’m interested in web development, machine learning, and clothing/graphic/web design
-- 🌱 I’m currently learning React and how to type 100wpm
+👋 Hi, I’m @JoshMayerr
+- I’m interested in web development, machine learning, and clothing/graphic/web design
+- I’m currently learning React and how to type 100wpm
 - thx for stopping by
 
 <!---
