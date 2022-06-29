@@ -1,7 +1,5 @@
 👋 Hi, I’m @JoshMayerr
-- I’m interested in web development, machine learning, and clothing/graphic/web design
-- I’m currently learning React and how to type 100wpm
-- thx for stopping by
+builder
 
 <!---
 JoshMayerr/JoshMayerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
