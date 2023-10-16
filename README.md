@@ -1,8 +1,9 @@
-🦕 Hi, I’m @JoshMayerr
-I'm from San Francisco
-Studying CS @ BU
-Currently working on... [[bix.sh]]
-I am trying to learn more about headless browesers atm
+🦕 Hi, I’m @JoshMayerr 
+
+- I'm from San Francisco
+- Studying CS @ BU
+- Currently working on... [[bix.sh]]
+- I am trying to learn more about headless browesers atm
 
 <!---
 JoshMayerr/JoshMayerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
