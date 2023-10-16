@@ -2,7 +2,7 @@
 
 - I'm from San Francisco
 - Studying CS @ BU
-- Currently working on... [[bix.sh]]
+- Currently working on... [bix.sh](https://bix.sh)
 - I am trying to learn more about headless browesers atm
 
 <!---
