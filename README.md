@@ -2,7 +2,7 @@
 
 - I'm from San Francisco
 - Studying CS @ BU
-- Currently working on... [bix.sh](https://bix.sh)
+- Currently working on... [tollb.it](https://tollb.it) and [bix.sh](https://bix.sh)
 - I am trying to learn more about headless browsers atm
 
 <!---
