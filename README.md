@@ -2,7 +2,8 @@
 
 - I'm from San Francisco
 - Studying CS @ BU
-- Currently working on... [tollb.it](https://tollb.it) and [bix.sh](https://bix.sh)
+- Currently working on... [tollb.it](https://tollb.it)
+    - we just raised money from VCs to work on real-time data infra for AI developers
 - I am trying to learn more about headless browsers atm
 
 <!---
